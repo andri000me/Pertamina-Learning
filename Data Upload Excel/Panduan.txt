@@ -1,0 +1,12 @@
+1. Data yang diupload adalah data Workbook dengan format upload pada
+wb.xlsx, data NIP dan Employee yang diupload ke dalam tabel workbook
+akan diinput ke tabel user secara otomatis apabila NIP tidak ada didalam
+tabel user.
+
+2. Data yang diupload adalah data EPPM atau data dari ruang kerja,
+data ini tidak akan menambah ke tabel user.
+
+3. Data pada file "Data Penilaian dont upload(Just input sheet 1)"
+didalam excel tersebut adalah contoh data yang akan di input manual
+oleh assessment pada page assessment dan akan tersimpan kedalam tabel
+penilaian.
